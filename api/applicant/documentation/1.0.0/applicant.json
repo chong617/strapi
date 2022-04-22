@@ -640,6 +640,9 @@
               "google_meet": {
                 "type": "string"
               },
+              "newMeetingTimes": {
+                "type": "component"
+              },
               "published_at": {
                 "type": "string"
               },
@@ -676,6 +679,15 @@
                 }
               }
             }
+          },
+          "discordUsername": {
+            "type": "string"
+          },
+          "moreInfo": {
+            "type": "string"
+          },
+          "linkToPortfolio": {
+            "type": "string"
           },
           "published_at": {
             "type": "string",
@@ -752,6 +764,15 @@
                 }
               }
             }
+          },
+          "discordUsername": {
+            "type": "string"
+          },
+          "moreInfo": {
+            "type": "string"
+          },
+          "linkToPortfolio": {
+            "type": "string"
           },
           "published_at": {
             "type": "string",

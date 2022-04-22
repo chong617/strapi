@@ -64,6 +64,15 @@
       "type": "component",
       "repeatable": true,
       "component": "skills.skills"
+    },
+    "discordUsername": {
+      "type": "string"
+    },
+    "moreInfo": {
+      "type": "text"
+    },
+    "linkToPortfolio": {
+      "type": "string"
     }
   }
 }
